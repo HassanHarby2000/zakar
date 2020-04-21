@@ -1,0 +1,12 @@
+<?php
+echo "php";
+?>
+
+<html>
+<head>
+<title>zakar</title>
+</head><body>
+<h1>test</h1>
+
+
+</body></html>
